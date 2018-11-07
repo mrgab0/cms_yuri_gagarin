@@ -9,7 +9,7 @@ link to materialize: `https://github.com/Dogfalo/materialize`
 the database that was implemented for testing purposes was mysql but the tester could use forks like mariaDB or other slq
 
 
-#the connection to the database is in the directory: `php/init.php`
+# the connection to the database is in the directory: `php/init.php`
 
 Modifications and selections to the database can be made from: `functions.php`
 
