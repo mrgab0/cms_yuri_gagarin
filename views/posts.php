@@ -1,6 +1,6 @@
 <?php 
 
-        require '../php/Funciones.php';
+        require '../php/Functions.php';
         require '../posts_sprite.php';
 
         
@@ -64,13 +64,29 @@
       <h1><?php echo $publicacion['titulo'];?></h1>
       <br><br>
       <p><?php echo $publicacion['contenido'];?></p>
+      
 
 </div>
 
 
-<div>
- 
-</div>
+ <br><br><br><br><br><br><br>
+  
+          <div class="row">
+          <p class="#eceff1 blue-grey lighten-5 col s4"  >subido por: <?php echo $publicacion['usuario']?> </p>
+    <form class="col s12">
+      <div class="row">
+        <div class="input-field col s12">
+          
+          <textarea id="icon_prefix2" class="materialize-textarea"></textarea>
+          <label for="icon_prefix2">Dejar un Comentario</label>
+           <a class="btn" onclick="M.toast({html: 'comentario enviado', completeCallback: function(){console.log('tu comentario fue enviado')}})">Enviar!</a>
+        </div>
+      </div>
+    </form>
+
+        
+
+  </div>
 
 
 
@@ -81,7 +97,7 @@
   </div>
 
   
-
+ 
     
 
 
@@ -94,7 +110,7 @@
               </span>
            
             <a class="black-text text-lighten-4 right" href="http://www.misionsucre.gov.ve/">Mision sucre</a>
-            <img src="src/img/heart.png" alt="heart-icon">
+            <img src="../src/img/heart.png" alt="heart-icon">
             </div>
           </div>
         </footer>

@@ -1,7 +1,7 @@
 
 <?php
 
-require 'php/Funciones.php';
+require 'php/Functions.php';
 
 $obj = new Funciones();
 
