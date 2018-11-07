@@ -20,6 +20,6 @@ feel free to modify what you require
 
 the views are modularized and can be even more modularized to add things like sectors where you place advertising to monetize the web and even add other mobile implementations such as google amp or use React.js, Angular.js, Vue.js or whatever you want
 
-about the name of the app is due to a famous Russian astronaut
+``about the name of the app is due to a famous Russian astronaut``
 
 
