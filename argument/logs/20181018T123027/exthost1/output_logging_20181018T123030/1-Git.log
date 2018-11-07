@@ -1,0 +1,45 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+> git rev-parse --show-toplevel
+fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git

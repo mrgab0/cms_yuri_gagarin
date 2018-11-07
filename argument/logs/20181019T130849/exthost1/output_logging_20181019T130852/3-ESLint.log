@@ -1,0 +1,21 @@
+[Info  - 1:08:56 p. m.] ESLint server stopped.
+[Info  - 1:08:58 p. m.] ESLint server running in node v8.9.3
+[Info  - 1:08:58 p. m.] ESLint server is running.
+[Info  - 1:09:02 p. m.] 
+Failed to load the ESLint library for the document /opt/lampp/htdocs/cms_base/src/js/admin_fix.js
+
+To use ESLint please install eslint by running 'npm install eslint' in the workspace folder cms_base
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn instead of npm set the setting `"eslint.packageManager": "yarn"`
+
+Alternatively you can disable ESLint for the workspace folder cms_base by executing the 'Disable ESLint' command.
+[Info  - 1:10:21 p. m.] 
+Failed to load the ESLint library for the document /opt/lampp/htdocs/cms_base/src/js/admin_fix.js
+
+To use ESLint please install eslint by running 'npm install eslint' in the workspace folder cms_base
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn instead of npm set the setting `"eslint.packageManager": "yarn"`
+
+Alternatively you can disable ESLint for the workspace folder cms_base by executing the 'Disable ESLint' command.

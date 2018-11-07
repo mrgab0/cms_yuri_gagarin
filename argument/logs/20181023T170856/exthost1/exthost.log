@@ -1,0 +1,26 @@
+[2018-10-23 17:09:00.613] [exthost] [info] extension host started
+[2018-10-23 17:09:00.737] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-10-23 17:09:00.737] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-10-23 17:09:00.779] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-10-23 17:09:00.779] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-10-23 17:09:00.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-10-23 17:09:00.867] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-10-23 17:09:01.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-10-23 17:09:01.204] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-10-23 17:09:01.282] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-10-23 17:09:01.294] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/dist/extension
+[2018-10-23 17:09:01.542] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-10-23 17:09:01.542] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabriel/.vscode/extensions/dbaeumer.vscode-eslint-1.6.1/client/out/extension
+[2018-10-23 17:09:03.561] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-10-23 17:09:03.561] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabriel/.vscode/extensions/esbenp.prettier-vscode-1.6.1/out/src/extension
+[2018-10-23 17:09:06.029] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2018-10-23 17:09:06.029] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabriel/.vscode/extensions/hookyqr.beautify-1.4.6/extension
+[2018-10-23 17:09:06.409] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.atom-keybindings {"startup":true,"activationEvent":"*"}
+[2018-10-23 17:09:06.409] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabriel/.vscode/extensions/ms-vscode.atom-keybindings-3.0.4/extension
+[2018-10-23 17:09:06.419] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2018-10-23 17:09:06.419] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabriel/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2018-10-23 17:09:06.490] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"activationEvent":"*"}
+[2018-10-23 17:09:06.490] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabriel/.vscode/extensions/streetsidesoftware.code-spell-checker-1.6.10/out/src/extension
+[2018-10-23 17:09:07.495] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"activationEvent":"*"}
+[2018-10-23 17:09:07.495] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabriel/.vscode/extensions/wallabyjs.quokka-vscode-1.0.156/index
+[2018-10-23 17:09:07.501] [exthost] [info] eager extensions activated

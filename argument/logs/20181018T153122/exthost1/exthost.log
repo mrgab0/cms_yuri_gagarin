@@ -1,0 +1,32 @@
+[2018-10-18 15:31:26.314] [exthost] [info] extension host started
+[2018-10-18 15:31:26.381] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-10-18 15:31:26.381] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-10-18 15:31:26.421] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-10-18 15:31:26.421] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-10-18 15:31:26.520] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-10-18 15:31:26.520] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-10-18 15:31:26.926] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-10-18 15:31:26.926] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-10-18 15:31:26.959] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-10-18 15:31:26.959] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/dist/extension
+[2018-10-18 15:31:27.032] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-10-18 15:31:27.032] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabriel/.vscode/extensions/dbaeumer.vscode-eslint-1.6.1/client/out/extension
+[2018-10-18 15:31:27.853] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-10-18 15:31:27.853] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabriel/.vscode/extensions/esbenp.prettier-vscode-1.6.1/out/src/extension
+[2018-10-18 15:31:29.348] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2018-10-18 15:31:29.348] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabriel/.vscode/extensions/hookyqr.beautify-1.4.6/extension
+[2018-10-18 15:31:30.676] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.atom-keybindings {"startup":true,"activationEvent":"*"}
+[2018-10-18 15:31:30.676] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabriel/.vscode/extensions/ms-vscode.atom-keybindings-3.0.4/extension
+[2018-10-18 15:31:30.686] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2018-10-18 15:31:30.686] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabriel/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2018-10-18 15:31:30.772] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"activationEvent":"*"}
+[2018-10-18 15:31:30.772] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabriel/.vscode/extensions/streetsidesoftware.code-spell-checker-1.6.10/out/src/extension
+[2018-10-18 15:31:31.780] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"activationEvent":"*"}
+[2018-10-18 15:31:31.780] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabriel/.vscode/extensions/wallabyjs.quokka-vscode-1.0.155/index
+[2018-10-18 15:31:31.794] [exthost] [info] eager extensions activated
+[2018-10-18 15:31:55.169] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"activationEvent":"onLanguage:php"}
+[2018-10-18 15:31:55.169] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2018-10-18 16:33:19.243] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2018-10-18 16:33:19.243] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2018-10-18 16:39:16.637] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-10-18 16:39:16.637] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
