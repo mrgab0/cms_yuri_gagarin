@@ -11,7 +11,7 @@ the database that was implemented for testing purposes was mysql but the tester 
 
 the connection to the database is in the directory: `php/init.php`
 
-Modifications and selections to the database can be made from functions.php
+Modifications and selections to the database can be made from: `functions.php`
 
 
 the area of the images is provided from the point of view of object-oriented javascript
