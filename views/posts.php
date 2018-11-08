@@ -29,6 +29,8 @@
       <link type="text/css" rel="stylesheet" href="../src/css/materialize.min.css"  media="screen,projection"/>
       <link type="text/css" rel="stylesheet" href="../src/css/themes/light/main.css"  media="screen,projection"/>
       <link href="../src/css/style.css" type="text/css" rel="stylesheet" media="screen,projection">
+      <!--Icon-->
+      <link rel="shortcut icon" href="../src/img/a.png">
 
       <title><?php echo $publicacion['titulo'];?></title>
 
@@ -42,7 +44,7 @@
     <div class="nav-wrapper container"><a id="logo-container" href="http://localhost:3002/cms_base/index.php" class="brand-logo">CMS yuri Gagarin</a>
       <ul class="right hide-on-med-and-down">
         <li><a href="#">Registrarse</a></li>
-        <li><a href="#">Iniciar sesion</a></li>
+        <li><a href="../views/admin/index.php">Iniciar sesion</a></li>
       </ul>
 
       <ul id="nav-mobile" class="sidenav">
@@ -72,10 +74,10 @@
  <br><br><br><br><br><br><br>
   
           <div class="row">
-          <p class="#eceff1 blue-grey lighten-5 col s4"  >subido por: <?php echo $publicacion['usuario']?> </p>
+          <p class="#eceff1 blue-grey lighten-5 col s3"  >subido por: <?php echo $publicacion['usuario']?> </p>
     <form class="col s12">
       <div class="row">
-        <div class="input-field col s12">
+        <div class="input-field col s8">
           
           <textarea id="icon_prefix2" class="materialize-textarea"></textarea>
           <label for="icon_prefix2">Dejar un Comentario</label>
@@ -88,7 +90,7 @@
 
   </div>
 
-
+<br>
 
 
 

@@ -26,7 +26,8 @@ $publicaciones = $obj->getPublicaciones();
       <link type="text/css" rel="stylesheet" href="src/css/materialize.min.css"  media="screen,projection"/>
       <link type="text/css" rel="stylesheet" href="src/css/themes/light/main.css"  media="screen,projection"/>
       <link href="src/css/style.css" type="text/css" rel="stylesheet" media="screen,projection">
-
+       <!--Icon-->
+      <link rel="shortcut icon" href="src/img/a.png">
       
 
       <!--Let browser know website is optimized for mobile-->
@@ -39,7 +40,7 @@ $publicaciones = $obj->getPublicaciones();
     <div class="nav-wrapper container"><a onload="mapeo()" id="logo-container" href="index.php" class="brand-logo">CMS yuri Gagarin</a>
       <ul class="right hide-on-med-and-down">
         <li><a href="#">Registrarse</a></li>
-        <li><a href="#">Iniciar sesion</a></li>
+        <li><a href="views/admin/index.php">Iniciar sesion</a></li>
       </ul>
 
       <ul id="nav-mobile" class="sidenav">
